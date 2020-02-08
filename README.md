@@ -3,6 +3,7 @@
 Tested on a MSI GS75 8SG, RGB keyboard does not work.<br />
 Adapted from: https://github.com/divideconcept/MSI-GS65-GS75-P65-P75-macOS-Catalina-Hackintosh
 
+![](https://github.com/lilmik/MSI_GS75_macOS_Catalina_Hackintosh/blob/master/EFI/CLOVER/themes/MSI/screenshot0.png)
 # Simplified MSI GS65/GS75/P65/P75 macOS Catalina Hackintosh Guide
 
 Tested on a MSI P65 9SE, should work on most MSI GS65/GS75/P65/P75.<br />
